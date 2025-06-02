@@ -1,16 +1,16 @@
-## Hi there 👋
+## プロフィール
+5年ほどIT業界で働いているフリーランスエンジニアです。
+現在はバックエンドとインフラの仕事をしております。
+最適化や自動化に興味があります。
 
-<!--
-**kand4y/kand4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 使用経験のある技術
+C# / TypeScript / SQL / HTML / CSS / JavaScript/ PHP / Python
 
-Here are some ideas to get you started:
+## 使用経験のあるフレームワーク等
+.NET / Next.js / Tailwind CSS / vite / WordPress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 使用ツール
+VSCode / Visual Studio / Excel
+
+## 開発OS
+Windows 11 / MacOS / Linux Ubuntu
