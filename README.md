@@ -2,13 +2,13 @@
 フリーランスエンジニアです。5年ほどIT業界で働いております。
 
 ## 使用技術
-C# / TypeScript / SQL
+C# / TypeScript / Terraform
 
 ## 使用経験のある技術
- HTML / CSS / JavaScript / PHP / Python / Go / PowerShell / shell script
+ HTML / CSS / JavaScript / PHP / Python / Go / PowerShell / shell script / SQL
 
 ## 使用経験のあるフレームワーク等
-.NET / Next.js / Tailwind CSS / vite / WordPress
+.NET / Next.js / React / Tailwind CSS / vite / WordPress
 
 ## 使用ツール
 VSCode / Visual Studio / Excel / Docker
