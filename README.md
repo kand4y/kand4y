@@ -8,7 +8,7 @@ C# / TypeScript / Terraform
  HTML / CSS / JavaScript / PHP / Python / Go / PowerShell / shell script / SQL
 
 ## 使用経験のあるフレームワーク等
-.NET / Next.js / React / Tailwind CSS / vite / WordPress
+.NET / React / Tailwind CSS / vite / WordPress
 
 ## 使用ツール
 VSCode / Visual Studio / Excel / Docker
